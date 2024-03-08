@@ -1,12 +1,7 @@
-- 👋 Hi, I’m @dieg0w
-- 👀 I’m interested in codes
-- 🌱 I’m currently learning systems development
-- 💞️ I’m looking to collaborate on schedules
-- 📫 How to reach me send me an email
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: i like so much games
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=dieg0w&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300" alt="ilustração do status do github">
 
-<!---
-dieg0w/dieg0w is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Olá, meu nome é Diego!
+
+<img src="https://img.shields.io/static/v1?label=Overview&message=Dieg0w&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
+
+<br/> Eu sou um desenvolvedor em Treinamento! </p>
